@@ -1,0 +1,15 @@
+{
+  "name": "router-single-page-application-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server-spa ./src ./index.html"
+  },
+  "keywords": [],
+  "author": "Rafael Aguero Baez (neshgogo)",
+  "license": "ISC",
+  "dependencies": {
+    "http-server-spa": "^1.3.0"
+  }
+}
